@@ -1,0 +1,8 @@
+python-docx
+transformers
+torch
+PyMuPDF
+faker
+streamlit
+spacy
+spacy
