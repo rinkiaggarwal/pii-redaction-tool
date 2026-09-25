@@ -1,12 +1,18 @@
-# Secure PII Redaction Tool 🛡️
+# Secure PII Redaction Tool 
 
 Welcome to the Secure PII (Personally Identifiable Information) Redaction Tool! This project is an automated, AI-powered document redaction system built to scan highly complex legal documents (like a 148-page Indian Red Herring Prospectus) and permanently obscure sensitive information. 
+
+<img width="1068" height="753" alt="Screenshot 2026-09-26 at 2 02 10 AM" src="https://github.com/user-attachments/assets/57cd7b0a-4b25-4bb7-8b2e-7da1f8f52f7b" />
+
+Reference for redacted file:
+<img width="705" height="330" alt="Screenshot 2026-09-26 at 2 03 55 AM" src="https://github.com/user-attachments/assets/b9fffe94-25c7-4601-908b-7b6d69369b3e" />
+
 
 This tool was designed with a focus on **data privacy, high accuracy, and strict document formatting preservation**.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - **Language**: Python 3
 - **Frontend UI**: Streamlit (for a clean, drag-and-drop web interface)
 - **NLP Engine**: spaCy (`en_core_web_lg`) for Deep Learning Named Entity Recognition (NER)
@@ -15,7 +21,7 @@ This tool was designed with a focus on **data privacy, high accuracy, and strict
 
 ---
 
-## ⚙️ How It Works (Backend Architecture)
+## How It Works (Backend Architecture)
 
 To ensure zero data leaks and 100% consistency, the backend script operates using a **Global 2-Pass Architecture** coupled with a **Hybrid Detection Engine**:
 
@@ -31,7 +37,7 @@ Because legal documents feature chaotic table structures and dense prose, relyin
 
 ---
 
-## 📊 Evaluation Metrics & Methodology
+## Evaluation Metrics & Methodology
 
 A critical requirement of this project was proving its reliability. To evaluate the model, the **entire 148-page Red Herring Prospectus (RHP)** was manually reviewed to establish a "Ground Truth" dataset of PII.
 
@@ -54,7 +60,7 @@ The model's predictions were then cross-validated against this ground truth to c
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 If you'd like to clone this repository and test the redaction script on your own local machine, follow these steps:
 
