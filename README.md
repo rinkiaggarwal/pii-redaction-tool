@@ -5,8 +5,9 @@ Welcome to the Secure PII (Personally Identifiable Information) Redaction Tool! 
 <img width="1068" height="753" alt="Screenshot 2026-09-26 at 2 02 10 AM" src="https://github.com/user-attachments/assets/57cd7b0a-4b25-4bb7-8b2e-7da1f8f52f7b" />
 
 Reference for redacted file:
-<img width="705" height="330" alt="Screenshot 2026-09-26 at 2 03 55 AM" src="https://github.com/user-attachments/assets/b9fffe94-25c7-4601-908b-7b6d69369b3e" />
 
+
+<img width="726" height="311" alt="Screenshot 2026-09-26 at 2 06 26 AM" src="https://github.com/user-attachments/assets/70788083-9c43-4351-a41d-c1da8717ad31" />
 
 This tool was designed with a focus on **data privacy, high accuracy, and strict document formatting preservation**.
 
