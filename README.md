@@ -2,7 +2,8 @@
 
 Welcome to the Secure PII (Personally Identifiable Information) Redaction Tool! This project is an automated, AI-powered document redaction system built to scan highly complex legal documents (like a 148-page Indian Red Herring Prospectus) and permanently obscure sensitive information. 
 
-<img width="1068" height="753" alt="Screenshot 2026-09-26 at 2 02 10 AM" src="https://github.com/user-attachments/assets/57cd7b0a-4b25-4bb7-8b2e-7da1f8f52f7b" />
+<img width="1159" height="565" alt="Screenshot 2026-09-26 at 3 11 53 AM" src="https://github.com/user-attachments/assets/9e92d519-0250-4554-a74e-c5da27542b52" />
+
 
 Reference for redacted file:
 
